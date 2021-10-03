@@ -1,0 +1,14 @@
+header {
+  height: 100px;
+}
+
+main {
+  margin-top: 27px;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+footer {
+  margin-top: 99px;
+  height: 100px;
+}
